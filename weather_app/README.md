@@ -15,7 +15,8 @@ Configuration
 
 Clone the Repository:
 
-git clone https://gist.github.com/kmallikarjun806
+git clone https://github.com/kmallikarjun806/weather_pro/pull/new/development
+
 cd your-repo
 Set Up Environment Variables:
 
